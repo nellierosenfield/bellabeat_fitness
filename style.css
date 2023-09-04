@@ -1,0 +1,12 @@
+.scrollable-content {
+  overflow-y: auto;
+  height: 300px;
+}
+
+.centered-content {
+    text-align: center;
+}
+
+.centered-content h4 {
+    color: #e38872;
+}
